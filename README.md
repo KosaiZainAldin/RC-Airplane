@@ -12,19 +12,16 @@ The project is currently in the electronics development phase. The Arduino based
 
 The airplane itself is not yet complete. This repository documents the learning, experiments, code, and integration work as the project develops.
 
-## Systems
+## Electronics
 
-### [nRF Wireless Communication](nRF/README.md)
+The airplane's electronic systems are organized in the [Electronics](Electronics/) folder.
 
-Documentation for the nRF24L01 wireless communication system and its Arduino implementation. This system is being developed for the airplane.
+- [nRF Wireless Communication](Electronics/nRF/README.md), Arduino and nRF24L01 wireless control system.
+- [Propulsion System](Electronics/Propulsion-System/README.md), propulsion electronics and motor control development.
 
-### [Propulsion System](Propulsion-System/README.md)
+## Engineering Notes
 
-Documentation for the propulsion electronics, including MOSFET related learning and motor control development.
-
-## Learning and Application
-
-See [Learning and Application](Learning-and-Application.md) for learning notes and video references showing concepts explored during development.
+See [Engineering Notes](Engineering-Notes.md) for learning notes and video references showing concepts explored during development.
 
 ## Development Process
 
