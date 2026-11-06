@@ -1,0 +1,6 @@
+/*
+  RC Airplane Propulsion System
+
+  Code placeholder.
+  The project code will be added here when ready.
+*/
