@@ -25,10 +25,10 @@ The airplane's electronic systems are organized in the [Learning-Projects](Learn
 - [Propulsion System](Learning-Projects/Propulsion-System/README.md), propulsion electronics and motor control development.
 
 ## Challenges and Lessons Learned
-* Independent Development
+### Independent Development
 
 One of the main challenges has been developing the project without a dedicated mentor or direct technical guidance. I've had to rely on video tutorials, and independent research to understand the concepts and make development decisions. This has pushed me to become more independent in learning and problem solving.
 
-* Project Funding
+### Project Funding
 
 Another challenge is funding the project independently. All components, materials, and equipment are purchased using my own money. This means I have to plan purchases carefully, and work within a limited budget
