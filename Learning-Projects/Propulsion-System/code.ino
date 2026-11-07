@@ -19,12 +19,12 @@ void loop() {
     }
     else if (input > 520 && input < 1023) {
         output = 104.5;
-        adjuster = (input - 520) / 12;
+        adjuster = (input - 520) / 3.36;
         output = output + adjuster;
     }
     else {
         output = 255;
     }
-
+    
     analogWrite(3, output);
 }
