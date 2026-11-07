@@ -14,14 +14,10 @@ The airplane itself is not yet complete. This repository documents the learning,
 
 ## Electronics
 
-The airplane's electronic systems are organized in the [Electronics](Electronics/) folder.
+The airplane's electronic systems are organized in the [Learning-Projects](Learning-Projects/) folder.
 
-- [nRF Wireless Communication](Electronics/nRF/README.md), Arduino and nRF24L01 wireless control system.
-- [Propulsion System](Electronics/Propulsion-System/README.md), propulsion electronics and motor control development.
-
-## Engineering Notes
-
-See [Engineering Notes](Engineering-Notes.md) for learning notes and video references showing concepts explored during development.
+- [nRF Wireless Communication](Learning-Projects/nRF/README.md), Arduino and nRF24L01 wireless control system.
+- [Propulsion System](Learning-Projects/Propulsion-System/README.md), propulsion electronics and motor control development.
 
 ## Development Process
 
