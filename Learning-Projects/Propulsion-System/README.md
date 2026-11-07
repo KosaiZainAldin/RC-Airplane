@@ -8,7 +8,7 @@ The propulsion system will be documented as its circuit, components, and control
 
 ## Learning Reference
 
-[MOSFET learning video](https://youtu.be/2nw7uFwLbLg)
+[MOSFET learning video](https://youtu.be/a25_9ffpNOA?is=g9eaqHfAtucNH_lH)
 
 ## MOSFET Learning
 
