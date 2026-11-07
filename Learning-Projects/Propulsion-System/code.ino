@@ -7,7 +7,7 @@ void setup() {
 void loop() {
     int input;
     double output;
-    double c = a;
+    double adjuster = input;
 
     input = analogRead(A1);
     Serial.print(input);
@@ -17,14 +17,12 @@ void loop() {
     if (input <= 520) {
         output = 0;
     }
-    else {
+    else if (input > 520 && input < 1023) {
         output = 104.5;
+        adjuster = (input - 520) / 12;
+        output = output + adjuster;
     }
-
-    c = (input - 516) / 12;
-    output = output + c;
-
-    if (input == 1023) {
+    else {
         output = 255;
     }
 
