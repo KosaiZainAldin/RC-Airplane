@@ -72,5 +72,5 @@ This project helped me become familiar with:
 
 - Setting up and configuring nRF24L01 transceiver modules.
 - Using the RF24 Arduino library.
-- learning the basics of how SPI protocol works
+- Learning the basics of how SPI protocol works
 - Sending and receiving data wirelessly.
