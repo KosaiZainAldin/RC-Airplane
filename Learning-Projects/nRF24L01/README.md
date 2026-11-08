@@ -6,7 +6,7 @@ This project is a simple wireless communication system built using two Arduino b
 
 A button connected to the transmitter Arduino sends a signal wirelessly to the receiver Arduino. When the receiver gets the signal indicating that the button is pressed, it turns on an LED.
 
-The main purpose of this project was to learn how to set up the nRF24L01 modules, become familiar with the RF24 library, and learn how the SPI (Serial Peripheral Interface) data transmission protocol work.
+The main purpose of this project was to learn how to set up the nRF24L01 modules, become familiar with the RF24 library, and learn how the SPI (Serial Peripheral Interface) data transmission protocol works.
 
 ## Demonstration Video
 
